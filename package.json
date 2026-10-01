@@ -1,0 +1,9 @@
+{
+  "name": "devops-docker-task",
+  "version": "1.0.0",
+  "description": "Simple app running inside Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
